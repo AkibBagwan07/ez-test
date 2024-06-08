@@ -1,0 +1,25 @@
+.heroImage{
+    height: 100px;
+    width: 100px;
+}
+
+.parent{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    margin:0px 40px;
+}
+
+.para{
+    text-align: left;
+}
+
+.logoAndWorks{
+    display: flex;
+    color:deepskyblue;
+}
+
+.works{
+    margin: 0px 20px;
+    font-size: 6vw;
+}

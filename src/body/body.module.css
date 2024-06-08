@@ -1,0 +1,32 @@
+.flexParent {
+    display: flex;
+    margin: 100px 30px;
+    background-color: white;
+    height: 80%;
+    width: 95%;
+    flex-direction: row;
+}
+
+.logo{
+    margin: 50px 0px;
+}
+
+.Btn{
+    height: 46px;
+    width: 100px;
+    background-color: orange;
+    border-radius: 8px;
+    border: 1px solid orange;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#email{
+    height: 36px;
+    width: 50%;
+    margin: 0px 16px;
+    border-radius: 8px;
+    border: 1px solid gray;
+}
+
